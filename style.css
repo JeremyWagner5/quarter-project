@@ -1,0 +1,47 @@
+body {
+
+}
+
+h1 {
+  background-color: navy;
+  text-align: center;
+}
+
+.navigation{
+  width:100%;
+  height: 170px;
+  background-image: url("https://montevallofalcons.com/common/controls/image_handler.aspx?thumb_id=0&image_path=/images/2016/9/27/Kermit_A_Johnson_Field.JPG");;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#gloves img{
+  height:200px;
+  width:200px;
+}
+
+#bats img{
+  height:200px;
+  width:200px;
+}
+
+#cleats img{
+  height:200px;
+  width:200px;
+}
+
+nav a{
+  padding:40px;
+  font-size: 18px;
+font-weight: bold;
+}
+
+#about {
+  text-align: center;
+}
+
+#grad1 {
+  height: 100%;
+  background-color: grey; /* For browsers that do not support gradients */
+  background-image: linear-gradient(tan, grey); /* Standard syntax (must be last) */
+}
